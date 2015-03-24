@@ -1,0 +1,2 @@
+First, Please Delete table "AspMyAdmin_user"
+Then, Change the KEY Variable "sBASE_64_CHARACTERS" in file function.asp
