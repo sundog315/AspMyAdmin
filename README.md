@@ -1,5 +1,6 @@
 # AspMyAdmin
-AspMyAdmin is a simple ASP Scripts, Writed in 2001,When i was a student.
+AspMyAdmin is a simple ASP Scripts,Use to Manage small database like an ACCESS database or a small SQLserver database.
+this Script was Writed in 2001 ,When i was a student.
 
 ASPmyadmin说明文件
 Version: beta0.9
